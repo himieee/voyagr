@@ -1,4 +1,4 @@
-# 🌍 Voyagr – Responsive Travel Website
+# 🌍 Voyagr – Dynamic Exploration Website
 
 **Voyagr** is a sleek and modern responsive travel website designed to inspire wanderlust and help users explore some of the world’s most beautiful and peaceful destinations. From serene spiritual escapes to adventurous mountain getaways, Voyagr is your travel companion built with passion and clean design.
 
@@ -20,9 +20,6 @@
 - **Remix Icons** – Modern icons
 - **Swiper.js** – Responsive sliders
 
-## 📸 Screenshots
 
-Coming soon...
 
-## 📁 Folder Structure
 
